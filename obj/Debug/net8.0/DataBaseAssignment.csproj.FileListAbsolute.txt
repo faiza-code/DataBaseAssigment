@@ -1,0 +1,14 @@
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\bin\Debug\net8.0\DataBaseAssignment.exe
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\bin\Debug\net8.0\DataBaseAssignment.deps.json
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\bin\Debug\net8.0\DataBaseAssignment.runtimeconfig.json
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\bin\Debug\net8.0\DataBaseAssignment.dll
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\bin\Debug\net8.0\DataBaseAssignment.pdb
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\DataBaseAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\DataBaseAssignment.AssemblyInfoInputs.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\DataBaseAssignment.AssemblyInfo.cs
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\DataBaseAssignment.csproj.CoreCompileInputs.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\DataBaseAssignment.dll
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\refint\DataBaseAssignment.dll
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\DataBaseAssignment.pdb
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\DataBaseAssignment.genruntimeconfig.cache
+C:\Users\USER PC\OneDrive\Documents\Makeen Project\MakeenSalalahSolution\DataBaseAssignment\obj\Debug\net8.0\ref\DataBaseAssignment.dll
