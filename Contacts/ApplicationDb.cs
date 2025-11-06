@@ -12,7 +12,8 @@ namespace DataBaseAssignment.Contacts
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server =(localdb)\\ProjectModels;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet ");
+            string con = " server =localhost\\MSSQLSERVER05;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;\"Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False\" ";
+            optionsBuilder.UseSqlServer(con);
         }
 
         public  DbSet <Employee> employees { get; set; }
